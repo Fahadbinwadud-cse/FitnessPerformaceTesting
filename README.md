@@ -1,4 +1,4 @@
-# Fitness Performace & Load Testing
+# Fitness Performace Testing
 
 Dear, 
 
