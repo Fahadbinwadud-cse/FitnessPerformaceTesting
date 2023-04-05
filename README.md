@@ -23,7 +23,7 @@ Please find the details report in the attachment and let me know if you have any
 1. [fitness_t100](https://magenta-lolly-bfeccd.netlify.app)
 2. [fitness_t200](https://prismatic-kataifi-55162b.netlify.app)
 3. [fitness_t250](https://remarkable-crepe-bd34d8.netlify.app)
-4. [fitness_t300](https://eclectic-sorbet-f30948.netlify.app)
+4. [fitness_t300](https://curious-fenglisu-cf52e9.netlify.app/)
 
 
 **Thank You For Reading.**
